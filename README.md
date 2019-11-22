@@ -13,3 +13,7 @@ This will be achieved in several ways:
 ## Lit review
 
 In 2019, [SoandSo](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-019-7908-5) showed 
+
+## Figure
+
+![Change after tax increase](https://seanasbury.files.wordpress.com/2011/04/obamacare-tax-chart.jpg) 
